@@ -1,0 +1,10 @@
+/* Front Page Styles */
+
+.site-inner.full {
+    padding: 0;
+    max-width: none;
+}
+ 
+.front-page-section {
+    padding: 40px 0;
+}
